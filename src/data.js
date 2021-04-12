@@ -7,7 +7,7 @@ const reviews = [
     image:
       './images/hopefountain.jpeg',
     text:
-      "Please join us for the Hope Fountain Cemetery clean up event on the  25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
+      "Please join us for the Hope Fountain Cemetery clean up event on the 25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const reviews = [
     image:
       './images/hopefountain2.jpeg',
     text:
-      "Please join us for the Hope Fountain Cemetery clean up event on the  25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
+      "Please join us for the Hope Fountain Cemetery clean up event on the 25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const reviews = [
     image:
       './images/hopefountain3.jpeg',
     text:
-      "Please join us for the Hope Fountain Cemetery clean up event on the  25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
+      "Please join us for the Hope Fountain Cemetery clean up event on the 25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const reviews = [
     image:
       './images/hopefountain7.jpeg',
     text:
-      "Please join us for the Hope Fountain Cemetery clean up event on the  25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
+      "Please join us for the Hope Fountain Cemetery clean up event on the 25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ const reviews = [
     image:
       './images/hopefountain5.jpeg',
     text:
-     "Please join us for the Hope Fountain Cemetery clean up event on the  25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
+     "Please join us for the Hope Fountain Cemetery clean up event on the 25th of May 2021 from 6am. We hope to clean up the gravesite, it is now mostly covered in grass, weeds and shrubs",
   },
 ];
 
