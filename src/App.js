@@ -15,7 +15,7 @@ function App() {
           <h3>Cemetery Cleanup Initiative </h3>
           <h3>Date: 25 May 2021 </h3>
           <h4>Contact: <a href="tel:+263 77 289 0879">+263 77 289 0879 </a> </h4>
-          <h4>LUNCH WILL BE SERVED </h4>
+          <h4>LUNCH WILL BE SERVED ON THE DAY </h4>
         </div>
         <Review />
          
